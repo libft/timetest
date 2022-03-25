@@ -1,0 +1,8 @@
+*.o
+*.d
+*.bc
+*.i
+*.s
+*.a
+.vscode/*.log
+a.out

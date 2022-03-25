@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    "**/*.{o,d,bc,i,s,a,lib,so,dll,dylib}": true,
+  },
+  "files.associations": {
+    "*.h": "cpp"
+  },
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}/src"
+  ],
+  "c-cpp-flylint.includePaths": [
+    "${workspaceFolder}/src"
+  ],
+}
